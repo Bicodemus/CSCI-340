@@ -13,3 +13,7 @@ header nav {
 #headerHR {
   border: 1px solid black;
 }
+
+section h3{
+  font-family: 'Dosis', sans-serif;
+}
