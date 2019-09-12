@@ -5,3 +5,11 @@ body {
 header h1 {
   font-family: 'Montserrat', sans-serif;
 }
+
+header nav {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#headerHR {
+  border: 1px solid black;
+}
