@@ -14,6 +14,14 @@ header nav {
   border: 1px solid black;
 }
 
-section h3{
+.jumbotron h3 {
   font-family: 'Dosis', sans-serif;
+}
+
+.jumbotron p {
+  font-family: 'Exo', sans-serif;
+}
+
+section h4 {
+  font-family: "Exo", sans-serif;
 }
